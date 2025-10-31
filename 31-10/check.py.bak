@@ -1,0 +1,6 @@
+from college import student
+from college import staff
+
+
+student.totalstudent()
+staff.totalstaff()
